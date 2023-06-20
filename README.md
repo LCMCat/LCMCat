@@ -23,4 +23,4 @@
 </details>
 
 💬contect me at ~~github.com/CMCat-Xicheng~~ (You are now here)!💬
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=CMCat-Xicheng&data=followers,repositories,stars)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=LCMCat&data=followers,repositories,stars)](https://github.com/Jurredr/github-widgetbox)

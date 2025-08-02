@@ -1,12 +1,13 @@
 ## 👋Hey there!👋
 
 <div>I'm CMCat,who is an amateur computer fan.</div>
-<div font-size="12px">(aka LCMCat/LinuxCMCat)</div>
+<div font-size="12px">(aka LCMCat/LinuxCMCat/Cation)</div>
 <div>.</div>
 🛠Program Languages🛠
 <li>C++</li>
 <li>Python3</li>
-<li>Java (🤔)</li>
+<li>Java</li>
+<li>Kotlin</li>
 <div>.</div>
 📋Developing Projects📋
 <details>

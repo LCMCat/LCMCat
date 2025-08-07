@@ -11,6 +11,12 @@
 <div>.</div>
 📋Developing Projects📋
 <details>
+<summary><b>Cat Tech Network</b></summary>
+<ul>
+ <li>A private minecraft server</li>
+</ul>
+</details>
+<details>
 <summary><b>Weathercock</b></summary>
 <ul>
  <li>(Time manager helper)</li>

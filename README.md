@@ -14,18 +14,14 @@
 <summary><b>Cat Tech Network</b></summary>
 <ul>
  <li>A private minecraft server</li>
-</ul>
-</details>
-<details>
-<summary><b>Weathercock</b></summary>
-<ul>
- <li>(Time manager helper)</li>
+ <i>⚠️postponed indefinitely⚠️</i>
 </ul>
 </details>
 <details>
 <summary><b>Edge Client</b></summary>
 <ul>
- <li>(Minecraft next-gen PVP Client)</li>
+ <li>Minecraft next-gen PVP Client</li>
+ <i>⚠️postponed indefinitely⚠️</i>
 </ul>
 </details>
 
